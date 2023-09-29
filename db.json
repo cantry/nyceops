@@ -1,25 +1,16 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
-  "readings"[
   
-  {  "Block/Building":"Common Area",
-"Room Location":"Transformer yard",
-"Asset Name":"Metering Cubicle",
-"Description":"HT Energy meter reading",
-"Asset Code":"BA ET 1A 2 00 HV VF 381",
-"Meeter Id":4444,
-"Track Id":555
-"Date/Period":"10-08-2023"
-}]
+  "readings":[
+  
+  { 
+    "Block/Building":"Common Area",
+    "Room Location":"Transformer yard",
+    "Asset Name":"Metering Cubicle",
+    "Description":"HT Energy meter reading",
+    "Asset Code":"BA ET 1A 2 00 HV VF 381",
+    "Meeter Id":"4444",
+    "Track Id":"555",
+    "Date/Period":"10-08-2023"
+}
+]
 }
